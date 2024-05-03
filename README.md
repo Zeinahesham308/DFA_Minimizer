@@ -3,7 +3,7 @@ Welcome to the DFA Minimizer tool! This simple tool allows you to enter a DFA (D
 ## Usage
 Once you have the DFA Minimizer set up, you can start using it by following these steps:
 
-1- Run the DFA Minimizer program.
-2- Enter the DFA details when prompted. Ensure that the DFA follows the specified language and state numbering conventions.
-3- Once you have entered the DFA, the program will perform the minimization process automatically.
-4- After the minimization is complete, the program will display the minimized DFA.
+1- Run the DFA Minimizer program. <br>
+2- Enter the DFA details when prompted. Ensure that the DFA follows the specified language and state numbering conventions. <br>
+3- Once you have entered the DFA, the program will perform the minimization process automatically. <br>
+4- After the minimization is complete, the program will display the minimized DFA. <br>
